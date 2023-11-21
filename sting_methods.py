@@ -1,8 +1,5 @@
-# name = "Shajid"
-# print(name.join(name))
+str = "Hello My name is shajid"
+str_aft = str.format("Hello")
+print(str_aft)
 
-txt = "banana"
-
-x = txt.center(20, "🍌")
-
-print(x)
+ 
